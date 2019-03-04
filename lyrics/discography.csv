@@ -1,4 +1,4 @@
-album,image,lyrics,title,year
+album,image,lyrics,title,year,peak
 "thank u, next",https://images.genius.com/51d06888c4262227293e86a3a9f5bf45.220x220x1.jpg,"[Verse 1]
 Yeah, breakfast at Tiffany's and bottles of bubbles
 Girls with tattoos who like getting in trouble
@@ -63,7 +63,7 @@ If I like it, then that's what I get, yeah
 I want it, I got it, I want it, I got it (Oh yeah)
 I want it, I got it, I want it, I got it (Oh yeah, yeah)
 You like my hair? Gee, thanks, just bought it
-I see it, I like it, I want it, I got it (I see, yep)",7 rings,2019-01-18
+I see it, I like it, I want it, I got it (I see, yep)",7 rings,1/18/2019,1
 ,https://images.genius.com/1b34aadef5bc71110945c9cd49c8c46d.1000x1000x1.jpg,"[Intro]
 A-buh-buh-buh-buh-buh (a-buh-buh-buh-buh-buh)
 
@@ -153,7 +153,7 @@ A, B, C
 1, 2, 3
 A, B, C
 1, 2, 3
-Baby, you and me",ABC,2009-06-25
+Baby, you and me",ABC,6/25/2009,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"[Verse 1]
 Yeah!
 I heard a couple of bad things when you were with me
@@ -225,11 +225,11 @@ It ain't about what you got
 It's all about what you do with it
 Na na na na na na na na na
 Na na na na na na na na na
-Yeah",Ain't About What You Got,2017-03-16
+Yeah",Ain't About What You Got,3/16/2017,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",All I Need,
+        ",All I Need,,
 ,https://images.genius.com/87b97bae57d9d481f8823da7ae8e2422.1000x1000x1.jpg,"I don't want a lot for Christmas
 There is just one thing I need
 I don't care about the presents
@@ -297,7 +297,7 @@ You, baby
 All I want for Christmas is you, baby
 All I want for Christmas is you, baby
 All I want for Christmas is you, baby
-All I want for Christmas is you, baby",All I Want for Christmas Is You,
+All I want for Christmas is you, baby",All I Want for Christmas Is You,,
 Yours Truly,https://images.rapgenius.com/7f68beb736101c0b0adc993b13f23af3.1000x1000x1.jpg,"[Verse 1: Ariana Grande]
 I'd like to say we gave it a try
 I'd like to blame it all on life
@@ -364,7 +364,7 @@ But almost is never enough
 Huh-huh, baby (almost)
 You know, you know, baby
 Almost, is never enough, baby
-You know, hey",Almost Is Never Enough,2013-08-19
+You know, hey",Almost Is Never Enough,8/19/2013,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"As of August 2016, Ariana Grande has 13 tattoos, but only 11 of them are known.
 
 First tattooed heart
@@ -387,7 +387,7 @@ Babydoll
 
 Female/ Venus Symbol
 
-A",Ariana Grande's Tattoos,
+A",Ariana Grande's Tattoos,,
 Yours Truly,https://images.genius.com/fddd96754f2a82832a6d1cfe6e8dac15.1000x1000x1.jpg,"[Verse 1]
 Baby, I got love for thee so deep inside of me
 I don’t know where to start
@@ -456,7 +456,7 @@ But every time I try to say it, words, they only complicate it
 Every time I try to say it words, they only complicate it
 Every time I try to say it words, they only complicate it
 Baby, baby (oh-woah, oh-woah)
-Baby, baby",Baby I,2013-07-22
+Baby, baby",Baby I,7/22/2013,21
 Dangerous Woman,https://images.genius.com/a0457334423b0d9e793d779a9512e90a.1000x1000x1.jpg,"[Verse 1]
 Boy, you know that you drive me crazy
 But it's one of the things I like
@@ -542,7 +542,7 @@ Make me make bad
 Boy, you make me make bad decisions
 Bad, boy, you make me make bad decisions
 Bad, boy, you make me make bad decisions
-Bad, boy, you make me make bad decisions",Bad Decisions,2016-05-20
+Bad, boy, you make me make bad decisions",Bad Decisions,5/20/2016,
 Dangerous Woman,https://images.genius.com/a0457334423b0d9e793d779a9512e90a.1000x1000x1.jpg,"[Verse 1]
 Midnight shadows
 When finding love is a battle
@@ -594,7 +594,7 @@ We decide it
 We're gonna be alright
 We're gonna be alright, ooh baby
 We're gonna be alright
-We're gonna be alright",Be Alright,2016-03-18
+We're gonna be alright",Be Alright,3/18/2016,43
 The Best,https://images.genius.com/c46416f0af0ba7383eb1be495e6392fb.640x640x1.jpg,"[Verse 1: Ariana Grande]
 Tale as old as time
 True as it can be
@@ -645,7 +645,7 @@ Beauty and the Beast
 Woah
 A-a-ay
 Beauty and....
-Beauty and the Beast",Beauty and the Beast,2017-02-03
+Beauty and the Beast",Beauty and the Beast,2/3/2017,
 My Everything,https://images.genius.com/3187877fdee0425edaa163c81d2a1e90.1000x1000x1.jpg,"[Chorus]
 If you know how to be my lover
 Maybe you can be my baby
@@ -712,7 +712,7 @@ Kiss me boy and drive me crazy
 Be my, be my, be my, be my
 Be my baby
 Be my, be my
-Be my baby, and drive me crazy",Be My Baby,2014-08-22
+Be my baby, and drive me crazy",Be My Baby,8/22/2014,
 My Everything,https://images.genius.com/3187877fdee0425edaa163c81d2a1e90.1000x1000x1.jpg,"[Verse 1: Ariana Grande]
 How soon do we forget how we felt?
 Dealing with emotions that never left
@@ -777,7 +777,7 @@ You, you, you, you
 I'll be savin' my love for you, for you
 You, you, you, you
 (Best mistake you ever had)
-I'll be savin' my love for you, for you",Best Mistake,2014-08-12
+I'll be savin' my love for you, for you",Best Mistake,8/12/2014,49
 Yours Truly,https://images.rapgenius.com/7f68beb736101c0b0adc993b13f23af3.1000x1000x1.jpg,"[Verse 1]
 I told you once, ""Get out my life
 I don't need ya
@@ -840,8 +840,8 @@ Put your hands up put your hands up
 I could tell a lie
 Blame tonight
 Too many drinks
-So many reasons that some things are better left unsaid",Better Left Unsaid,2013-08-30
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics are unknown at the moment,Blame (Am I),
+So many reasons that some things are better left unsaid",Better Left Unsaid,8/30/2013,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics are unknown at the moment,Blame (Am I),,
 Unreleased ,https://images.genius.com/1aa63f95c3729ce8fb8886c10d10dc9e.500x500x1.jpg,"[Verse 1]
 Now I've been looking for someone
 Tryna find a right boy to wear on my arm
@@ -895,7 +895,7 @@ Boyfriend material, material
 Want everyone to know you're my
 Boyfriend material, boyfriend material
 Boyfriend material, material
-Want everyone to know",Boyfriend Material,2014-05-15
+Want everyone to know",Boyfriend Material,5/15/2014,
 13 (Original Broadway Cast Recording),https://images.genius.com/22de2d9366b1db61410e233f349542d9.1000x1000x1.jpg,"[CASSIE]
 I saw the cover and judged the book
 I turned away without a second look
@@ -989,7 +989,7 @@ I see a brand new you. Hoo!
 I see a brand new you. Hoo!
 I see a brand new you. Hoo!
 I see a brand new you. Hoo!
-I see a brand new you!",Brand New You,2008-09-30
+I see a brand new you!",Brand New You,9/30/2008,
 The Remix,https://images.genius.com/5dfc56f9075c505a9e5074663a5eb22d.1000x1000x1.jpg,"[Verse 1]
 If you want it, take it
 I should've said it before
@@ -1055,7 +1055,7 @@ This is the part when I break free
 This is the part when I say I don't want ya
 I'm stronger than I've been before
 This is the part when I break free
-'Cause I can't resist it no more",Break Free (Zedd’s Extended Mix),2015-05-25
+'Cause I can't resist it no more",Break Free (Zedd’s Extended Mix),5/25/2015,
 My Everything,https://images.genius.com/7469b198c271e3a00f5994de0e8e4fbe.1000x1000x1.jpg,"[Click here to read how Zedd and Ariana Grande got together to make “Break Free”]
 
 [Verse 1]
@@ -1121,7 +1121,7 @@ This is the part when I break free
 This is the part when I say I don't want ya
 I'm stronger than I've been before
 This is the part when I break free
-'Cause I can't resist it no more",Break Free,2014-07-03
+'Cause I can't resist it no more",Break Free,7/3/2014,4
 My Everything,https://images.genius.com/3187877fdee0425edaa163c81d2a1e90.1000x1000x1.jpg,"[Produced by Andrew ""Pop"" Wansel and Warren ""Oak"" Felder]
 
 [Verse 1: Ariana Grande]
@@ -1220,7 +1220,7 @@ Ooh, yeah, running 'round town tell everybody
 Ooh, yeah, running 'round town tell everybody
 Ooh, yeah, running 'round town tell everybody
 I'm coming out, he’s coming
-I'm coming out",Break Your Heart Right Back,2014-08-22
+I'm coming out",Break Your Heart Right Back,8/22/2014,
 My Everything,https://images.genius.com/894f3fa1c9fb6d46da59831d7b649fae.800x800x1.jpg,"[Chorus]
 Riding 'round in my Cadillac
 Thinking 'bout the day that I first saw you
@@ -1267,7 +1267,7 @@ Thinking 'bout the day that I first saw you
 Nothing compares to what we had, and baby that won't change
 I want you, babe
 I still want you, baby
-I still want you",Cadillac Song,2014-08-22
+I still want you",Cadillac Song,8/22/2014,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"[Verse 1: Ariana Grande]
 Chestnuts roasting at an open fire
 Jack Frost nipping at your nose
@@ -1298,7 +1298,7 @@ To kids from one to ninety-two
 Although its been said many times, many ways
 Merry Christmas!
 Merry Christmas!
-Merry Christmas to you!",Chestnuts,2011-12-23
+Merry Christmas to you!",Chestnuts,12/23/2011,
 Dangerous Woman,https://images.genius.com/aa0d665473d0841d11137c620659e467.300x300x1.png,"[Verse 1]
 Don't need permission
 Made my decision to test my limits
@@ -1380,7 +1380,7 @@ Yeah, there's somethin' 'bout you boy
 Yeah, there's somethin' 'bout you boy
 Yeah, there's somethin' 'bout you boy
 Yeah, there's somethin' 'bout you boy
-(Somethin' 'bout, somethin' 'bout, somethin' 'bout you)",Dangerous Woman,2016-03-11
+(Somethin' 'bout, somethin' 'bout, somethin' 'bout you)",Dangerous Woman,3/11/2016,8
 Yours Truly,https://images.genius.com/c2b278cfc788637a98a5b39be1846dc4.1000x1000x1.jpg,"[Verse 1]
 You walked in
 Caught my attention
@@ -1460,7 +1460,7 @@ For you (Oh, oh)
 [Outro: MARJORIE GRANDE & FRANK GRANDE]
 MARJORIE: He was a man’s man and a ladies man.
 FRANK: 18, 19, I began to become more serious about things in life.
-MARJORIE: Oh, I think when I was standing on that stoop and I looked at him, yeah. I was eleven-years old.",Daydreamin',2013-08-30
+MARJORIE: Oh, I think when I was standing on that stoop and I looked at him, yeah. I was eleven-years old.",Daydreamin',8/30/2013,
 Christmas & Chill - EP,https://images.genius.com/b759c2f7c1fdca6fe23dfd2662384272.1000x1000x1.jpg,"[Verse 1]
 When December comes
 I bet you want to wrap me all up and take me home with you
@@ -1505,7 +1505,7 @@ I'm the present and you know it, here I am, boy, uh
 Merry Christmas, here I am, boy
 Gonna love you, gonna give you all I can, boy, uh
 Merry Christmas, here I am, boy
-I'm the present and you know it, boy, uh, yeah",December,2015-12-18
+I'm the present and you know it, boy, uh, yeah",December,12/18/2015,
 ,https://images.genius.com/0fa75dfdf1e3d2aa7e3df6be9902fb02.500x500x1.jpg,"[Intro]
 Mhmm, uh-huh, yeah yeah, alright
 Mhmm, uh-huh, yeah yeah, alright
@@ -1596,7 +1596,7 @@ Oooh
 If I could just die
 Oooh
 Baby please don't go boy
-No no no no no no",Die In Your Arms,2012-07-06
+No no no no no no",Die In Your Arms,7/6/2012,
 Unreleased ,https://images.genius.com/40f42a3da103290dee6d352986dcdd00.500x500x1.jpg,"[Verse 1]
 I dug a single seed into the ground
 I hope it grows, grows
@@ -1665,7 +1665,7 @@ When you're gone
 (When you're gone)
 Don't be gone too long (when you're gone)
 'Cause tell me who's gonna love me
-When you're gone",Don't Be Gone Too Long,2014-09-15
+When you're gone",Don't Be Gone Too Long,9/15/2014,
 Dangerous Woman,https://images.genius.com/cb1ddb60083b8e3f4e4f82984dbf768f.1000x1000x1.jpg,"[Verse 1: Ariana Grande]
 Anytime I'm alone, I can't help thinking about you
 All I want, all I need, all I see is just me and you
@@ -1759,8 +1759,8 @@ Everyday, every
 Give it to me, to me
 (She got me on it...)
 Oh, he give it to me every day
-(She got me on it...)",Everyday,2016-05-20
-,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Released in 2019,Far Away,
+(She got me on it...)",Everyday,5/20/2016,55
+,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Released in 2019,Far Away,,
 Dangerous Woman,https://images.genius.com/9526bbda560f90fbffe145f0a336a9f6.1000x1000x1.jpg,"[Verse 1]
 I know what I came to do
 And that ain't gonna change
@@ -1824,10 +1824,10 @@ Focus on me (focus), f-f-focus on me (focus on me)
 Focus on me, f-f-focus on me
 Focus on me, f-f-focus on me
 Focus on me (focus), f-f-focus on me (focus on me)
-Focus on me (focus), f-f-focus on me (focus on me)",Focus,2015-10-30
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Expected to be soon*,Forgiveness,
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,Go Ahead (without it),2018-01-01
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Expected to be soon*,Gratefulness,
+Focus on me (focus), f-f-focus on me (focus on me)",Focus,10/30/2015,7
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Expected to be soon*,Forgiveness,,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,Go Ahead (without it),1/1/2018,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Expected to be soon*,Gratefulness,,
 Dangerous Woman,https://images.genius.com/aa0d665473d0841d11137c620659e467.300x300x1.png,"[Intro]
 Greedy, ooh
 You know that I'm greedy for love
@@ -1919,7 +1919,7 @@ You know that I'm greedy for love
 'Cause I'm so greedy, ooh
 You know that I'm greedy for love
 You know that I'm greedy for love
-'Cause I'm so",Greedy,2016-05-20
+'Cause I'm so",Greedy,5/20/2016,
 ,https://images.genius.com/dcab21b82ca745e1dd20c90e3cb1ff28.400x400x1.jpg,"[Verse 1]
 Easy come, easy go
 That's just how you live, oh
@@ -1991,8 +1991,8 @@ But you won't do the same
 You wouldn't do the same
 You wouldn't do the same
 Oh, you wouldn't do the same
-Oh, no, no, no",Grenade,2011-02-04
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Expected to be soon*,Growth,
+Oh, no, no, no",Grenade,2/4/2011,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Expected to be soon*,Growth,,
 My Everything,https://images.genius.com/3187877fdee0425edaa163c81d2a1e90.1000x1000x1.jpg,"[Intro: Ariana Grande]
 Keep your hands on me, don’t take them off until I say so
 Let me break you off
@@ -2082,7 +2082,7 @@ Put your hands on it, put your hands on it
 Put your hands on me
 You can put your hands on me
 If you like what you see
-Baby, put your hands on me",Hands on Me,2014-08-22
+Baby, put your hands on me",Hands on Me,8/22/2014,
 ,https://images.genius.com/3045315574d18ee6ad9c61a19cfc1854.1000x1000x1.jpg,"[Verse 1]
 Oh yeah
 Have yourself a little merry Christmas
@@ -2104,8 +2104,8 @@ Gather near to us once more, ooh
 Through the years we all will be together
 If the fates allow
 Until then we'll have to muddle through somehow
-And have yourself a merry little Christmas now",Have Yourself A Merry Little Christmas,
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,Her,
+And have yourself a merry little Christmas now",Have Yourself A Merry Little Christmas,,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,Her,,
 Unreleased ,https://images.genius.com/852889edf34068537cc77ed3fad56486.481x481x1.jpg,"[Intro]
 Higher... uh huh
 
@@ -2153,7 +2153,7 @@ Make them lose their minds, uh huh
 We got that jam, make them dance
 Make them lose their minds yeah, yeah, yeah
 
-[Chorus x2]",Higher,2008-10-22
+[Chorus x2]",Higher,10/22/2008,
 Yours Truly,https://images.genius.com/c2b278cfc788637a98a5b39be1846dc4.1000x1000x1.jpg,"[Intro: Leon Thomas III]
 It's The Rascals!
 
@@ -2237,12 +2237,12 @@ I'm under... pressure, pressure
 Let's just go back to the way it was
 When we were on...
 (Honeymoon Avenue, Honeymoon Avenue, Honeymoon Avenue, Honeymoon Avenue)
-Let's just go back, back, back",Honeymoon Avenue,2013-08-30
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,I've Heard It Both Ways,
+Let's just go back, back, back",Honeymoon Avenue,8/30/2013,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,I've Heard It Both Ways,,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"No lyrics at this time
 
 
-This is a rumored song!!!",I Ain't Shit,
+This is a rumored song!!!",I Ain't Shit,,
 Dangerous Woman,https://images.genius.com/cb1ddb60083b8e3f4e4f82984dbf768f.1000x1000x1.jpg,"[Verse 1]
 Used to cry 'bout some crazy shit before
 I used to feel so obligated to be so much more
@@ -2268,7 +2268,7 @@ I don't care about it anymore
 Yeah
 I-I-I...
 I-I-I don't care about it anymore
-I-I-I don't care about it anymore",I Don't Care,2016-05-20
+I-I-I don't care about it anymore",I Don't Care,5/20/2016,
 ,https://images.genius.com/9a04b76244e7b2af3c348279bf6b03d0.1000x1000x1.jpg,"[Hook 1]
 I don't wanna be, to be alone baby
 Unless I'm alone, unless I'm alone with ya
@@ -2334,7 +2334,7 @@ I just want to hold you close for Christmas
 The way that I used to do
 Cause it won't be Christmas
 It won't be
-Unless I'm alone with you",I Don't Want To Be Alone For Christmas,
+Unless I'm alone with you",I Don't Want To Be Alone For Christmas,,
 ,https://images.genius.com/cebda04cd362dbdaf12d697e42907ba3.850x850x1.jpg,"Share my life
 Take me for what I am
 Cause I'll never change
@@ -2392,7 +2392,7 @@ No, don't walk away from me
 Don't you dare walk away from me
 I have nothing, nothing, nothing
 If I don't have you, you
-If I don't have you, oh, ooo yea",I Have Nothing,
+If I don't have you, oh, ooo yea",I Have Nothing,,
 Dangerous Woman,https://images.genius.com/8cb124754c813c5231a333b984711669.1000x1000x1.jpg,"[Verse 1]
 I'm so into you, I can barely breathe
 And all I wanna do is to fall in deep
@@ -2462,7 +2462,7 @@ So come light me up, my baby
 Little dangerous
 A little dangerous, my boy
 A little less conversation and a, little more touch my body
-'Cause I'm so into you, into you, into you",Into You,2016-05-06
+'Cause I'm so into you, into you, into you",Into You,5/6/2016,13
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"[Verse 1:]
 In your hands
 I turn into something better than I am
@@ -2500,7 +2500,7 @@ Body touch, won't you understand
 In your hands
 I'm in your hands
 
-[break]",In Your Hands,2018-10-21
+[break]",In Your Hands,10/21/2018,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"You brought me up to my melting point
 And your lack of love leaves me paranoid
 Oh, oh, and now, how the hell am I supposed to win
@@ -2563,7 +2563,7 @@ And all I ever did was love
 And it ain’t right, no it ain’t right
 And I was never good enough
 And it ain’t right, no it ain’t right
-I know I did it all for love",It Ain't Right,
+I know I did it all for love",It Ain't Right,,
 Dangerous Woman,https://images.genius.com/08c59196c0a0d76c813a4f334a82ead7.1000x1000x1.jpg,"[Verse 1]
 Yeah, you really tried
 But I was blind to all the lies you told me, boy
@@ -2611,8 +2611,8 @@ Goodbye, goodbye
 'Cause I gave it away, I gave it away, I gave it away, I gave it away
 And I'm taking it right back, hey
 Taking it right back, baby
-I'm taking it right back, hey",Jason's Song (Gave It Away),2016-05-20
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics for this song have yet to be released. Please check back once the song has been released,Juice,
+I'm taking it right back, hey",Jason's Song (Gave It Away),5/20/2016,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics for this song have yet to be released. Please check back once the song has been released,Juice,,
 My Everything,https://images.genius.com/3187877fdee0425edaa163c81d2a1e90.1000x1000x1.jpg,"[Verse 1]
 I don't ever ask you where you've been
 And I don't feel the need to know who you're with
@@ -2663,7 +2663,7 @@ Just a little bit of your heart
 Just a little bit of your heart is all I want
 Just a little bit of your heart
 Just a little bit of your heart
-Just a little bit is all I'm asking for",Just a Little Bit of Your Heart,2014-08-22
+Just a little bit is all I'm asking for",Just a Little Bit of Your Heart,8/22/2014,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"[Intro]
 Just for now, just for now, just for now
 Just for now, just for now, just for now
@@ -2726,7 +2726,7 @@ Get me out of here
 Get me out of...
 
 [Outro]
-Just for now, just for now...",Just For Now,2013-01-23
+Just for now, just for now...",Just For Now,1/23/2013,
 Dangerous Woman,https://images.genius.com/42bc34fde7d75334c999ef6ca5725c14.550x550x1.jpg,"[Verse 1]
 Say you could turn me on
 Boy, but that's about it
@@ -2797,7 +2797,7 @@ Ain't nobody like me
 Ain't nobody like me, baby
 
 [Outro]
-Ain't nobody like me, ain't nobody like me...",Knew Better (Part 2),2016-09-15
+Ain't nobody like me, ain't nobody like me...",Knew Better (Part 2),9/15/2016,
 Christmas Kisses - EP,https://images.genius.com/51262a226e9fd447e4ee1cb0000e6b40.1000x1000x1.png,"[Verse 1]
 I hate that I remember
 I wish I could forget what you did last December
@@ -2856,7 +2856,7 @@ I hate that I remember
 I wish I could forget what you did last December
 You left my heart a mess
 You blew it
-You do it, do it?",Last Christmas,2013-11-19
+You do it, do it?",Last Christmas,11/19/2013,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"[Pre-Chorus]
 ...
 I just wanna drink pink champagne with you
@@ -2898,7 +2898,7 @@ I, I wanna live la vie en rose
 Let's... 'til the sun
 I, I wanna live la vie en rose
 Let's... 'til the sun
-Let's... 'til the sun",La Vie En Rose,
+Let's... 'til the sun",La Vie En Rose,,
 Unreleased ,https://images.genius.com/74743bb4a6d0f3fe998ad5a673b918b8.850x850x1.jpg,"[Verse]
 There's a dangerous love, boy
 You're no good for me, darling
@@ -2922,7 +2922,7 @@ Na-na-na-na-na-na-na-na
 Na-na-na-na-na (baby)
 Na-na-na-na-na baby
 Na-na-na-na-na (na-na-na)
-He's a dangerous boy",Leave Me Lonely (Part 2),2017-02-03
+He's a dangerous boy",Leave Me Lonely (Part 2),2/3/2017,
 Dangerous Woman,https://images.genius.com/a0457334423b0d9e793d779a9512e90a.1000x1000x1.jpg,"[Refrain: Macy Gray]
 Dangerous love
 You’re no good for me, darling
@@ -2982,7 +2982,7 @@ Yeah, you turn me away
 Like I’m begging for a dollar
 Danger, oh, how you hold me
 I get a chill inside
-And nothing frightens me, baby, oh",Leave Me Lonely,2016-05-20
+And nothing frightens me, baby, oh",Leave Me Lonely,5/20/2016,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"What it will be it will be
 I let it rain
 Why was your whole life fulfilled
@@ -3011,7 +3011,7 @@ Because you gotta deal with it anyway
 I let it rain (I let it rain)
 What it will be it will be
 I let it rain (oh let it rain)
-Why was your whole life fulfilled",Let It Rain,2008-12-07
+Why was your whole life fulfilled",Let It Rain,12/7/2008,
 Dangerous Woman,https://images.genius.com/211b14679ffb4c91e99dd191680a4239.1000x1000x1.jpg,"[Verse 1: Ariana Grande]
 I just broke up with my ex
 Now I’m out here single, I don’t really know what’s next
@@ -3091,7 +3091,7 @@ She's just looking for love
 Boy, I'm looking for love, baby
 I'mma give her that love
 I'mma give her that...
-I'mma give her that...",Let Me Love You,2016-04-18
+I'mma give her that...",Let Me Love You,4/18/2016,99
 Christmas Kisses - EP,https://images.genius.com/83db8d500e345e20a627a6019c2e4450.1000x1000x1.jpg,"[Verse 1]
 It’s time for us to all give something
 All around the world this time of year
@@ -3143,7 +3143,7 @@ And don’t let go, cause Christmas is here
 All we need is love, love is all we need
 Love underneath the tree, love is everything
 All we need is love, love is all we need
-Let your heart believe that love is everything",Love Is Everything,2013-11-26
+Let your heart believe that love is everything",Love Is Everything,11/26/2013,
 The Remix,https://images.genius.com/5dfc56f9075c505a9e5074663a5eb22d.1000x1000x1.jpg,"[Chorus]
 'Cause if you want to keep me
 You gotta, gotta, gotta, gotta
@@ -3170,7 +3170,7 @@ Love me, love me, love me
 Ooh-ooh-ooh-ooh
 Harder, harder, harder
 
-[Instrumental Drop]",Love Me Harder (Gregor Salto Amsterdam Mix),2015-05-25
+[Instrumental Drop]",Love Me Harder (Gregor Salto Amsterdam Mix),5/25/2015,
 My Everything,https://images.genius.com/51e8fe56a693fcb7e5fdb365a4dcfbac.680x680x1.jpg,"[Verse 1: Ariana Grande]
 Tell me something I need to know
 Then take my breath and never let it go
@@ -3247,7 +3247,7 @@ Harder, harder, harder (boy you gotta love me, love me, baby)
 Ooh-ooh-ooh-ooh
 Love me, love me, love me (just a little bit harder, harder, baby)
 Ooh-ooh-ooh-ooh
-Harder, harder, harder",Love Me Harder,2014-09-30
+Harder, harder, harder",Love Me Harder,9/30/2014,7
 ,https://images.genius.com/ba252a50d3e719d1151f1e7bcd6d4088.1000x1000x1.jpg,"On the first page of our story
 The future seemed so bright
 Then this thing turned out so evil
@@ -3293,7 +3293,7 @@ But that's all right because I like the way it hurts
 Just gonna stand there and hear me cry
 But that's all right because I love the way you lie
 I love the way you lie
-Oh, I love the way you lie",Love The Way You Lie,2010-12-11
+Oh, I love the way you lie",Love The Way You Lie,12/11/2010,
 Yours Truly,https://images.rapgenius.com/7f68beb736101c0b0adc993b13f23af3.1000x1000x1.jpg,"[Intro]
 Baby, don’t you know you’ve got all my love, all my love?
 Baby, don’t you know you’ve got all my love, all my love?
@@ -3372,7 +3372,7 @@ Boy, you got all my, all my
 
 [Outro]
 Baby, don’t you know you’ve got all my love, all my love?
-Baby, don’t you know you’ve got all my love, all my love?",Lovin' It,2013-08-30
+Baby, don’t you know you’ve got all my love, all my love?",Lovin' It,8/30/2013,
 Dangerous Woman,https://images.genius.com/a0457334423b0d9e793d779a9512e90a.1000x1000x1.jpg,"[Verse 1]
 The sun is setting
 And you're right here by my side
@@ -3419,7 +3419,7 @@ Sweet like candy
 But he's such a man
 He knows just what it does
 When he’s holding me tight
-And he calls me ""Moonlight"" too",Moonlight,2016-05-20
+And he calls me ""Moonlight"" too",Moonlight,5/20/2016,
 My Everything,https://images.genius.com/3187877fdee0425edaa163c81d2a1e90.1000x1000x1.jpg,"[Verse 1]
 I cried enough tears to see my own reflection in them
 And then it was clear
@@ -3457,11 +3457,11 @@ So it's time I push my pride away
 You are, you are
 You are my everything
 You are, you are
-You are my everything",My Everything,2014-08-22
+You are my everything",My Everything,8/22/2014,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",My favorite things,
+        ",My favorite things,,
 Unreleased ,https://images.genius.com/74743bb4a6d0f3fe998ad5a673b918b8.850x850x1.jpg,"Lyrics will be updated upon release
 
 [Verse]
@@ -3473,7 +3473,7 @@ Guess I shouldn't stay so
 [Chorus]
 You say I learn the lessons on the hard way
 It take every ounce of effort just to parlay
-Boy, it's always in my favor, it go my way, my way",My Way,2016-08-14
+Boy, it's always in my favor, it go my way, my way",My Way,8/14/2016,
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Intro: Shangela Laquifa Wadley]
 This is one small step for woman
 One giant leap for woman-kind
@@ -3540,9 +3540,9 @@ Keep me in your orbit and you know you'll drag me under
 
 [Outro]
 I'd rather be alone tonight
-You can say ""I love you"" through the phone tonight",NASA,2019-02-08
+You can say ""I love you"" through the phone tonight",NASA,2/8/2019,17
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"Bitches be assin my flow
-[?] Bitch no good for ya lil",Needed,
+[?] Bitch no good for ya lil",Needed,,
 Unreleased ,https://images.genius.com/6ccafaf66febaba452510c2308d0286e.500x500x1.jpg,"[Intro]
 So what we gon' do?
 So what you gon' do?
@@ -3616,8 +3616,8 @@ So what we gon' do?
 No-no-nobody does it better
 So what you gon' do?
 No-no-nobody does it better
-No-no-nobody does it better",Nobody Does It Better,2016-05-17
-,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Lyrics will be available soon!,Nomad,
+No-no-nobody does it better",Nobody Does It Better,5/17/2016,
+,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Lyrics will be available soon!,Nomad,,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"[Verse 1]
 I know you want what's best for me
 I know you've been waiting patiently
@@ -3702,7 +3702,7 @@ And I'm gonna take you there
 And I'm gonna take you there
 And I'm gonna take you there
 And I'm gonna take you there
-A little more time and I'll take you there",Not Afraid Of Love,2015-09-25
+A little more time and I'll take you there",Not Afraid Of Love,9/25/2015,
 Christmas & Chill - EP,https://images.genius.com/b759c2f7c1fdca6fe23dfd2662384272.1000x1000x1.jpg,"[Refrain 1]
 I'll love you till I die, boy
 Every day of my life
@@ -3735,14 +3735,14 @@ Naughty or nice
 I'm by your side
 Ooh, ooh
 Ooh, ah
-Ah",Not Just On Christmas,2015-12-18
+Ah",Not Just On Christmas,12/18/2015,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"Snippet:
 Oh darling
 I've been in and out of town
 I ? see you around
 Won't you come and see me now
 Oh darling
-I've been missing you",Oh Darling,
+I've been missing you",Oh Darling,,
 ,https://images.genius.com/184f4615ed41d694e7724272800905ae.1000x1000x1.jpg,"[Ariana Grande]
 I was a liar, I gave into the fire
 I know I should've fought it
@@ -3813,7 +3813,7 @@ I need to be the one who takes you home, yeah (ooh!)
 
 [Kendji Girac]
 Attends-moi
-Si tu t'enfuis, je suis juste un fantôme",One Last Time (Attends-moi),2015-02-16
+Si tu t'enfuis, je suis juste un fantôme",One Last Time (Attends-moi),2/16/2015,
 ,https://images.genius.com/9f8fed73725b8fafa20f6121bd812555.1000x1000x1.jpg,"[Verse 1]
 I was a liar, I gave into the fire
 I know I should've fought it
@@ -3888,7 +3888,7 @@ I need to be the one who takes you home, yeah (ooh!)
 
 [Outro]
 One last time
-I need to be the one who takes you home",One Last Time (ft. Fedez),2015-05-26
+I need to be the one who takes you home",One Last Time (ft. Fedez),5/26/2015,
 ,https://images.genius.com/073a637090e79182357923f68d35e155.1000x1000x1.jpg,"Https://genius.com/Ariana-grande-one-last-time-lyrics
 I was a liar
 I gave into the fire
@@ -3952,7 +3952,7 @@ One last time
 I need to be the one who takes you home
 
 One last time
-I need to be the one who takes you home",One Last Time (My Everything),2015-02-10
+I need to be the one who takes you home",One Last Time (My Everything),2/10/2015,
 My Everything,https://images.genius.com/073a637090e79182357923f68d35e155.1000x1000x1.jpg,"[Verse 1]
 I was a liar
 I gave in to the fire
@@ -4024,7 +4024,7 @@ I need to be the one who takes you home
 
 [Outro]
 One last time
-I need to be the one who takes you home",One Last Time,2015-02-10
+I need to be the one who takes you home",One Last Time,2/10/2015,13
 My Everything,https://images.genius.com/ba74d62b3e42d565e4ce87bd4f56483b.1000x1000x1.jpg,"[Intro]
 I want you, I want you
 I want you, I want you
@@ -4083,7 +4083,7 @@ No, I can't be your only one
 'Cause you look twice as good as anyone I ever met
 And your love is three times better
 How could anyone forget?
-No, I can't",Only 1,2014-08-22
+No, I can't",Only 1,8/22/2014,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"[Intro]
 La la la la
 La la la la
@@ -4153,7 +4153,7 @@ How to make you feel like a man, yeah
 Want you to make me feel like I'm the only girl in the world
 Like I'm the only one that you'll ever love
 Like I'm the only one who knows your heart
-Only one...",Only Girl (in the World),
+Only one...",Only Girl (in the World),,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"Being ""empowered""...... is not the same as being a ""bitch""...
 HAVING SOMETHING TO SAY...... is not the same as HAVING A BAD ATTITUDE....
 
@@ -4178,7 +4178,7 @@ I'm saying this after literally 8 years of feeling like I constantly had to have
 
 One more thought.... my honeymoon diaries are my way of sharing absolutely as much as I can with my fans. that is something I have done since day one and never plan on changing. it is a safe environment for me to be myself and share funny, special, personal things with my fans and to laugh about silly things I've done / things I'm going through. I don't plan on monitoring or changing that because there are more eyes on me now than there were before. I love y'all with all my heart.... you've accepted and celebrated me not only as an artist but as a person since day one and and nothing will change that or change me.
 
-""any woman who chooses to behave like a full human being should be warned that the armies of the status quo will treat her as something of a dirty joke.. She will need her sisterhood."" - Gloria Steinem",Open Letter Critiquing Sexism,
+""any woman who chooses to behave like a full human being should be warned that the armies of the status quo will treat her as something of a dirty joke.. She will need her sisterhood."" - Gloria Steinem",Open Letter Critiquing Sexism,,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"So the news is out about Sam & Cat. I felt it wasn’t my place to make any sort of announcement so I kept quiet until now. I want to thank Nickelodeon for making a childhood dream of mine come true, for being a family to me, for being so accommodating and supportive of my multitasking with my music career, and for of course introducing me to many of my fans however many years ago. I want to thank Dan Schneider for allowing me to play such a special, beautiful character who I hid behind for so long. What I mean by that is when I was younger, people loved Cat so much I used to pretend to be more like her. It took me a long time to be brave enough to separate myself and show people how different we actually are…. I think that’s honestly because I admire her so much. Her appreciation for life and everybody she encounters. Her passion and genuine excitement for the little things that most people dread like school projects and work. She always saw negative obstacles as opportunities to make things good
 
 I will always hold Cat near and dear to my heart and appreciate her help in my personal growth from teenager to adult. I know she seems like a simple, daft character (and she is) but she played such a huge part in my life I just wanted to express my appreciation for her and share some of the things I love most about her. I think a lot of people could take a page out of her book…… she wouldn’t judge anybody by their appearance…. she believed the best in people…. she wasn’t afraid of anything or anybody…. she never let people’s judgements hold her back from doing what she wanted, acting how she wanted, dressing how she wanted wanted, dying her hair however she wanted… she never held back her enthusiasm or joy for fear of appearing some sort of way or for fear of jinxing the good that is real (which is something I personally do all the time but I wish I could shake that and celebrate every little thing like she does)
@@ -4193,7 +4193,7 @@ Thank you to the cast and crew who I spent almost every day with for a good 4 or
 
 Thank you from the bottom of my heart to a true friend of mine, Dan Schneider. I will never take these memories or lessons learned for granted
 
-Lastly, thank you to my fans who have been with me since all of this started… you are the most loyal, dedicated and continuously loving supporters I could ever imagine. We’ve been through so much and you are still here… and we’ve got a long way to go. :) Thank you for believing in me, accepting me and loving me. I love you forever",Open Letter to Fans,2014-07-14
+Lastly, thank you to my fans who have been with me since all of this started… you are the most loyal, dedicated and continuously loving supporters I could ever imagine. We’ve been through so much and you are still here… and we’ve got a long way to go. :) Thank you for believing in me, accepting me and loving me. I love you forever",Open Letter to Fans,7/14/2014,
 Yours Truly,https://images.genius.com/c2b278cfc788637a98a5b39be1846dc4.1000x1000x1.jpg,"[Intro]
 Oh-oh-oh-oh
 Oh-oh-oh-oh
@@ -4282,7 +4282,7 @@ I could sing about how love is a losing battle
 It's not hard (it's not hard)
 It's not hard (it's not hard)
 It's not hard (it's not hard)
-It's not hard",Piano,2013-08-30
+It's not hard",Piano,8/30/2013,
 Unreleased ,https://images.genius.com/c692c01638ad8c283167324d7ca4331f.770x770x1.jpg,"[Verse 1]
 Every day I'm grinding
 I don't even get a weekend
@@ -4362,7 +4362,7 @@ Let 'em know our names
 Screaming so loud, they'll hear us in L.A
 We're popping, like pink champagne (aye, aye)
 Popping, like pink champagne (aye, aye)
-We're popping, like pink champagne",Pink Champagne,2013-10-01
+We're popping, like pink champagne",Pink Champagne,10/1/2013,
 ,https://images.genius.com/709cbc2ee4e5cd8a27ef4eb84663a6a7.400x400x1.jpg,"""broken.
 from the bottom of my heart, i am so so sorry. i don't have words.""
 
@@ -4372,7 +4372,7 @@ from the bottom of my heart, i am so so sorry. i don't have words.""
 
 ""I'll be returning to the incredibly brave city of Manchester to spend time with my fans and to have a benefit concert in honour of and to raise money for the victims and their families.
 
-""They will be on my mind and in my heart everyday and I will think of them with everything I do for the rest of my life.""",Pray For Manchester,
+""They will be on my mind and in my heart everyday and I will think of them with everything I do for the rest of my life.""",Pray For Manchester,,
 My Everything,https://images.rapgenius.com/48203bfc780de197230215c66e63be5d.1000x1000x1.png,"[Produced by Max Martin, Shellback, and Ilya]
 
 [Intro: Iggy Azalea & (Ariana Grande)]
@@ -4465,7 +4465,7 @@ I got one less, one less problem, problem, baby
 One less problem without ya (Hey)
 I got one less problem without ya (Without you)
 I got one less problem without ya (I got one less, one less, yeah)
-I got one less, one less problem",Problem,2014-04-28
+I got one less, one less problem",Problem,4/28/2014,2
 ,https://images.rapgenius.com/c6e0580d266785bcf25186093fe6d3ae.1000x1000x1.jpg,"[Intro]
 Let me see you put your hearts up, yeah
 Let me see you put your hearts up, yeah
@@ -4543,7 +4543,7 @@ If we give a little love maybe we can change the world
 [Outro]
 Let me see you put your hearts up, yeah
 Let me see you put your hearts up, yeah
-If we give a little bit of love maybe we can change the world",Put Your Hearts Up,2011-12-12
+If we give a little bit of love maybe we can change the world",Put Your Hearts Up,12/12/2011,
 Unreleased ,https://images.genius.com/74743bb4a6d0f3fe998ad5a673b918b8.850x850x1.jpg,"[Intro]
 Blaq Tuxedo
 La la, la-la, la-la, la
@@ -4611,7 +4611,7 @@ Di-di, di-di
 Di-di, di-di
 This is ri-
 Di-di, di-di
-This is ridiculous",Ridiculous,2017-10-22
+This is ridiculous",Ridiculous,10/22/2017,
 Yours Truly,https://images.rapgenius.com/f122ced8414c8cd4507bccae386804e4.1000x1000x1.jpg,"[Intro]
 If you wanna party, if you, if you wanna party
 Then put your hands up, put your hands up
@@ -4719,7 +4719,7 @@ I’ll always be right there
 You got it, you got it baby
 You got it, you got it baby
 You got it, you got it baby
-You got it, you got it baby, you got it babe",Right There,2013-08-06
+You got it, you got it baby, you got it babe",Right There,8/6/2013,84
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"Get so high
 Go so fast
 It's getting good
@@ -4745,7 +4745,7 @@ You make
 You make me go round
 You make me
 You make
-Go round",Rollercoaster,
+Go round",Rollercoaster,,
 ,https://images.genius.com/1b34aadef5bc71110945c9cd49c8c46d.1000x1000x1.jpg,"[Verse 1]
 There's a fire starting in my heart
 Reaching a fever pitch, and it's bringing me out the dark
@@ -4830,7 +4830,7 @@ And you played it to the beat
 Could have had it all
 Rolling in the deep
 You had my heart inside of your hands
-But you played it, you played it, you played it, you played it to the beat",Rolling in the Deep,2011-05-06
+But you played it, you played it, you played it, you played it to the beat",Rolling in the Deep,5/6/2011,
 Christmas Kisses - EP,https://images.rapgenius.com/055e0a284d2eafb4547f97299f56fc76.1000x1000x1.png,"[Verse 1: Ariana Grande]
 Santa baby, slip a Sable under the tree for me
 I've been an awful good girl
@@ -4872,7 +4872,7 @@ Hurry tonight, hurry down the chimney tonight
 [Outro: Ariana Grande + Liz Gillies]
 Waiting
 Hurry, tonight
-Hurry down the chimney tonight",Santa Baby,2013-12-13
+Hurry down the chimney tonight",Santa Baby,12/13/2013,
 Christmas Kisses - EP,https://images.rapgenius.com/a9263ea01fc4fa86beabd86d66d59d19.1000x1000x1.jpg,"[Chorus]
 Santa, tell me if you're really there
 Don't make me fall in love again if he won't be here next year
@@ -4936,22 +4936,22 @@ Santa, tell me if he really cares
 Santa, tell me if you're really there
 Don't make me fall in love again if he won't be here next year
 Santa, tell me if he really cares
-'Cause I can't give it all away if he won't be here next year",Santa Tell Me,2014-11-24
+'Cause I can't give it all away if he won't be here next year",Santa Tell Me,11/24/2014,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",See You Dance,
+        ",See You Dance,,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"Ladies in the buildin'
 Probably makin' more than you
 He make that money but I bet
 She got her own
 [...]
 You know, you know, you know, you know
-She got her own",She Got Her Own,
+She got her own",She Got Her Own,,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",Shut It Down,
+        ",Shut It Down,,
 Dangerous Woman,https://images.genius.com/9ee8ae97d146d73671120d6d3304d23d.350x350x1.jpg,"[Intro: Ariana Grande & Nicki Minaj]
 I've been here all night (Ariana)
 I've been here all day (Nicki Minaj)
@@ -5036,7 +5036,7 @@ And boy, got me walkin' side to side (side to side)
 This the new style with the fresh type of flow
 Wrist icicle, ride dick bicycle
 Come through yo, get you this type of blow
-If you wanna Minaj, I got a tricycle",Side to Side,2016-05-20
+If you wanna Minaj, I got a tricycle",Side to Side,5/20/2016,4
 Christmas Kisses - EP,https://images.genius.com/2ea6778fb0ef09a0a7318cff3eda1b6b.1000x1000x1.png,"[Verse 1]
 Dear Santa, it's me, Ariana
 I know it's been awhile but I really need your help this year
@@ -5084,7 +5084,7 @@ Just make it snow in California? I'll even settle for rain
 Don't want him to go tomorrow morning
 Give me something to make him stay
 Wrapped in his arms by the fireplace will be the perfect gift
-Let it snow, let it snow, let it snow, let it snow in California",Snow In California,2013-12-03
+Let it snow, let it snow, let it snow, let it snow in California",Snow In California,12/3/2013,
 Unreleased ,https://images.genius.com/62e829b2dcb28be964295cce5e42479f.1000x1000x1.jpg,"Lyrics will be available upon release. Stay tuned
 
 Snippet
@@ -5102,8 +5102,8 @@ I'm wasted
 
 Sober, when you come closer
 Boy I know I know you've been trying to quit
-But you let it show",Sober,2016-09-09
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available soon,Solo,
+But you let it show",Sober,9/9/2016,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available soon,Solo,,
 Dangerous Woman,https://images.genius.com/cb1ddb60083b8e3f4e4f82984dbf768f.1000x1000x1.jpg,"[Intro]
 La, la, la, la, la, la, la
 La, la, la, la, la, la, la
@@ -5203,10 +5203,10 @@ La, la, la, la, la, la, la
 Not even sometimes
 Not even sometimes
 La, la, la, la, la, la, la
-La, la, la, la, la, la, la",Sometimes,2016-05-20
+La, la, la, la, la, la, la",Sometimes,5/20/2016,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"(Will.i.am)
 Started from the streets
-????",Started,
+????",Started,,
 Dangerous Woman,https://images.genius.com/cb1ddb60083b8e3f4e4f82984dbf768f.1000x1000x1.jpg,"[Chorus]
 Step on up to this
 Step, step on up to this
@@ -5287,7 +5287,7 @@ Step on up to this crazy love
 
 [Outro]
 Don't be ashamed, any time, any place
-Let him know that you got it like that",Step on Up,2016-05-20
+Let him know that you got it like that",Step on Up,5/20/2016,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"[Graham:]
 There you come with your big, brown eyes and I'm so sure you got me mesmerized
 So sure I'm just about to fall for you
@@ -5345,7 +5345,7 @@ You gotta stick around
 
 There you come with your big brown eyes and I'm
 So sure you've got me mesmerized
-Stick around",Stick Around,2009-01-13
+Stick around",Stick Around,1/13/2009,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"I was there in the rain
 Crying again
 You said that you changed,
@@ -5444,13 +5444,13 @@ And when I get back
 You know you better be gone
 You better be gone
 You better be gone
-You better be gone",Suitcase,2010-01-09
+You better be gone",Suitcase,1/9/2010,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"Haha fuck yall oh my gosh
-Ag4 is coming ok",Swan,
+Ag4 is coming ok",Swan,,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"Drake is a dick head lol
 He ain't sweet
-Pls dont lick him",Sweet (ft. Drake),
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,Take Me Away,
+Pls dont lick him",Sweet (ft. Drake),,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,Lyrics will be available upon release. Stay tuned!,Take Me Away,,
 Yours Truly,https://images.genius.com/c2b278cfc788637a98a5b39be1846dc4.1000x1000x1.jpg,"[Verse 1]
 You don’t need a lot of money
 Honey, you don’t have to play no games
@@ -5491,11 +5491,11 @@ Darling, let me trace the lines, on your tattooed heart
 Tattooed heart, tattooed heart
 Tattooed heart, tattooed heart
 Tattooed heart, tattooed heart
-Just as long as I'm the name, on your tattooed heart",Tattooed Heart,2013-08-30
+Just as long as I'm the name, on your tattooed heart",Tattooed Heart,8/30/2013,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",Tears For Love,
+        ",Tears For Love,,
 ,https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj13YXBzoLfAhVJRK0KHb6aC1IQjRx6BAgBEAU&url=https://www.wmagazine.com/story/ariana-grande-thank-u-next-music-video-references&psig=AOvVaw1ItY3gEZ1Br4Kev2xG4XEK&ust=1543890509035019,"-thank u, next instrumental-
 
 Ariana:
@@ -5514,7 +5514,7 @@ And I liked it, 'cause it, he never got anything stuck in the front teeth.
 But, have you ever gone out with someone that had no teeth at all?
 
 Ariana:
-No.","Thank u, next (Jennifer Coolidge and Ariana Grande conversation)",2018-11-30
+No.","Thank u, next (Jennifer Coolidge and Ariana Grande conversation)",11/30/2018,
 Yours Truly,https://images.rapgenius.com/114c17a3576f17d3f6104cad21f43433.1000x1000x1.jpg,"[Intro: Ariana Grande (Mac Miller)]
 What we gotta do right here is go back
 Back into time
@@ -5622,8 +5622,8 @@ You, you, yeah, the way
 I love the way you make me feel
 I love it, I love it
 I love the way you make me feel
-I love it, the way I love you",The Way,2013-03-25
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,TBA,The Way It Is,
+I love it, the way I love you",The Way,3/25/2013,9
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,TBA,The Way It Is,,
 Trolls (Original Motion Picture Soundtrack) ,https://images.genius.com/739e48a965dc42f27ed217e4c6439597.1000x1000x1.png,"[Intro]
 Mmmm, watch me
 Hey, woo
@@ -5712,7 +5712,7 @@ They don't know, they don't know, they don't know
 They don't know about what we do
 Yeah, it's true, I could have all this, but I'm good if I got you
 They don't know, they don't know, they don't know
-They don't know about us",They Don't Know,2016-09-23
+They don't know about us",They Don't Know,9/23/2016,
 Dangerous Woman,https://images.genius.com/a0457334423b0d9e793d779a9512e90a.1000x1000x1.jpg,"[Verse 1]
 I've been thinkin' bout you
 Yeah, I've been missing you
@@ -5772,7 +5772,7 @@ I'm thinkin' 'bout you, I'm thinkin' 'bout you
 I'm just thinkin' 'bout you
 I'm thinkin' 'bout you, I'm thinkin' 'bout you
 I'm just thinkin' 'bout you
-I'm thinkin' 'bout you, I'm thinkin' 'bout you",Thinking Bout You,2016-05-20
+I'm thinkin' 'bout you, I'm thinkin' 'bout you",Thinking Bout You,5/20/2016,
 My Everything,https://images.genius.com/894f3fa1c9fb6d46da59831d7b649fae.800x800x1.jpg,"[Verse 1]
 You know what I want
 I know what you don't
@@ -5835,11 +5835,11 @@ Baby, tell me, do you feel it like I do?
 Boy if we get too close
 I'm down if we get too close
 Boy if we get too close
-I'm down if we get too close",Too Close,2014-08-22
+I'm down if we get too close",Too Close,8/22/2014,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",Topless,
+        ",Topless,,
 Dangerous Woman,https://images.genius.com/cb1ddb60083b8e3f4e4f82984dbf768f.1000x1000x1.jpg,"[Verse 1]
 How do I make the phone ring?
 Why do I even care?
@@ -5907,7 +5907,7 @@ Ain't nobody gonna touch it, touch it, touch it (Ooh)
 [Outro]
 Baby, ain't nobody gonna
 Baby, ain't nobody gonna
-Baby, ain't nobody gonna",Touch It,2016-05-20
+Baby, ain't nobody gonna",Touch It,5/20/2016,
 Christmas & Chill - EP,https://images.genius.com/b759c2f7c1fdca6fe23dfd2662384272.1000x1000x1.jpg,"[Verse 1]
 On that first day of Christmas
 When you gave me all them kisses
@@ -5962,7 +5962,7 @@ Look at all the things my true love gave to me
 My true love, my true love
 You are my true love
 (Ah-ah-ah-ah-ah, oh-oh, ah-ah)
-You are my true love",True Love,2015-12-18
+You are my true love",True Love,12/18/2015,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"[Verse 1]
 I wanna mix a potion up
 Make a special drink for you
@@ -6027,11 +6027,11 @@ My voodoo's so addicting
 3 silver spoons of branded wine
 Just a frog and a little thyme, and baby, you'll be mine
 With my voodoo love, aw yeah
-With my voodoo love, aw yeah",Voodoo Love,2016-08-02
-,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Lyrics will be available upon release. Stay tuned!,What They Say,
+With my voodoo love, aw yeah",Voodoo Love,8/2/2016,
+,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Lyrics will be available upon release. Stay tuned!,What They Say,,
 ,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,"When your in love
 Somebody crosses the line
-You have a heart that gets broken",When I Love Somebody,
+You have a heart that gets broken",When I Love Somebody,,
 My Everything,https://images.genius.com/3187877fdee0425edaa163c81d2a1e90.1000x1000x1.jpg,"[Verse 1]
 I've been living with devils and angels
 Angels, angels
@@ -6099,7 +6099,7 @@ So why do I try?
 You got me like na-na-na-na-na-na-na
 Na-na-na-na-na-na-na
 Na-na-na-na-na-na-na
-Na-na-na-na-na-na-na",Why Try,2014-08-22
+Na-na-na-na-na-na-na",Why Try,8/22/2014,
 Christmas & Chill - EP,https://images.genius.com/b759c2f7c1fdca6fe23dfd2662384272.1000x1000x1.jpg,"[Verse 1]
 It ain't even cold outside, not where I'm from
 Feeling like it's mid-July under the sun
@@ -6148,8 +6148,8 @@ Turning the heat into an ice cold holiday
 Made just for me and my baby
 Ooh-ooh-ooh-ooh
 Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
-My baby's in town and we're gonna do some winter things, hey",Winter Things,2015-12-18
-,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Expected to release*,Wish You Knew,
+My baby's in town and we're gonna do some winter things, hey",Winter Things,12/18/2015,
+,https://images.genius.com/285268c9b4e93680f6e01377fb478df9.814x814x1.jpg,Expected to release*,Wish You Knew,,
 Christmas & Chill - EP,https://images.genius.com/b759c2f7c1fdca6fe23dfd2662384272.1000x1000x1.jpg,"[Verse 1]
 Come and kiss me, baby
 We don't need no mistletoe
@@ -6195,7 +6195,7 @@ Are you wit it this Christmas?
 (Baby, let me know)
 Are you wit it?
 Are you wit it?
-Are you wit it this Christmas?",Wit It This Christmas,2015-12-18
+Are you wit it this Christmas?",Wit It This Christmas,12/18/2015,
 Yours Truly,https://images.genius.com/c2b278cfc788637a98a5b39be1846dc4.1000x1000x1.jpg,"[Verse 1]
 Now you finally tell me how you feel
 Guess your words just came a little too late
@@ -6276,7 +6276,7 @@ But now you’ll never know, you’ll never know
 
 [Outro]
 Boy, you’ll never know, you’ll never know
-You’ll never know, you’ll never know",You'll Never Know,2013-08-30
+You’ll never know, you’ll never know",You'll Never Know,8/30/2013,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"[Intro: Iyaz}
 Ariana, Iyaz
 
@@ -6375,8 +6375,8 @@ Tell me, am I your only shawty?
 (Yes, you are)
 Why won't you say that?
 (Yes, you are)
-Am I your only shawty?",You're My Only Shawty,2012-03-09
-Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"As of now, no lyrics are available since the song hasn't come out - if Ariana releases it, check back for the lyrics!",You,
+Am I your only shawty?",You're My Only Shawty,3/9/2012,
+Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"As of now, no lyrics are available since the song hasn't come out - if Ariana releases it, check back for the lyrics!",You,,
 My Everything,https://images.genius.com/ba74d62b3e42d565e4ce87bd4f56483b.1000x1000x1.jpg,"[Verse 1]
 Center of attention once again
 They don't understand
@@ -6446,11 +6446,11 @@ You think you know, but you don't have no idea
 Think you know me, but there's more to see, my love
 
 [Outro]
-My love",You Don't Know Me,2014-08-22
+My love",You Don't Know Me,8/22/2014,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",Your Lies,
+        ",Your Lies,,
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Verse 1]
 I've been outta sight
 I've been worried 'bout you lately
@@ -6528,7 +6528,7 @@ I got a bad idea
 How 'bout we take a little bit of time away?
 I got a bad idea
 Forget about it, yeah, forget about him, yeah
-Forget about me",​bad idea,2019-02-08
+Forget about me",​bad idea,2/8/2019,27
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Verse 1]
 You keep me in your orbit
 Well, I know I'm a hard one to please
@@ -6578,7 +6578,7 @@ So that I'm better off not being around ya
 I'm better off without him
 I'm better off being a wild one
 On the road a lot, had to keep it a thousand
-So that I'm better off not being around ya",​better off,2018-08-17
+So that I'm better off not being around ya",​better off,8/17/2018,
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Chorus: Pharrell Williams & Ariana Grande]
 There is somethin' between us, I can see it right now
 Your magnetic demeanor, that’s something can't be found
@@ -6641,7 +6641,7 @@ Once I have you, I will never let you, never let you go
 Never let you, never let you go
 Never let you, never let you go
 Never let you, never let you go
-Never let you",​blazed,2018-08-17
+Never let you",​blazed,8/17/2018,
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Intro: Marjorie Grande]
 Because I'm trying to do the best I can
 And they can't find something to satisfy me, ugh
@@ -6734,7 +6734,7 @@ Yeah-eh-eh, yeah
 Yeah, yeah, yeah
 Yeah-eh-eh
 Yeah, yeah, yeah
-Yeah, yeah yeah",​bloodline,2019-02-08
+Yeah, yeah yeah",​bloodline,2/8/2019,22
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Chorus: Ariana Grande & Missy Elliott]
 Let's go!
 Baby, I just want you to be mine
@@ -6802,7 +6802,7 @@ At the borderline, beside me, you lay
 Baby, I just want you to be mine
 Won't you give me a bit of your time? Oh, whoa
 Chasin' you, no, I won't stop tryin'
-Just meet me at the borderline",​borderline,2018-08-17
+Just meet me at the borderline",​borderline,8/17/2018,
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Verse 1]
 You got me some type of way (Hmm)
 Ain't used to feelin' this way (Mmm-mmm)
@@ -6880,7 +6880,7 @@ Yeah, yeah, 'cause I'm bored
 With your girlfriend, girlfriend, girlfriend, baby, girlfriend
 With your girlfriend
 With your girlfriend, girlfriend, girlfriend, girlfriend
-With your girlfriend","​break up with your girlfriend, i'm bored",2019-02-08
+With your girlfriend","​break up with your girlfriend, i'm bored",2/8/2019,2
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Intro]
 Back to you, back to you, back to you
 Back to you, back to you, back to you
@@ -6938,7 +6938,7 @@ Back to you, back to you, back to you (Back to you)
 I go back to you, back to you, back to you every time (I go)
 I go back to you, back to you, back to you (Yeah)
 Back to you, back to you, back to you
-I go back to you, back to you, back to you every time",​everytime,2018-08-17
+I go back to you, back to you, back to you every time",​everytime,8/17/2018,62
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Intro: Wendy Rene]
 After laughter comes tears
 After laughter comes tears
@@ -7006,7 +7006,7 @@ Woo, ah (Woo, ah)
 
 [Chorus]
 Fuck a fake smile, smile
-Fuck a fake smile, fake smile (Yeah)",​fake smile,2019-02-08
+Fuck a fake smile, fake smile (Yeah)",​fake smile,2/8/2019,26
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Intro]
 You can feel it, feel it
 Yeah, yeah
@@ -7106,7 +7106,7 @@ I'll be there, ooh, there
 
 [Outro]
 You can work your way to the top
-(You can feel it, feel it)",​get well soon,2018-08-17
+(You can feel it, feel it)",​get well soon,8/17/2018,
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Verse 1]
 I know you hear me when I cry
 I try to hold it in at night
@@ -7163,7 +7163,7 @@ I know that it breaks your heart when I cry again
 We'll get through this, we'll get past this, I'm a girl with (Girl with)
 A whole lot of baggage
 But I love you (Love you), we'll get past this (Past this)
-I'm a girl with a whole lot of baggage, yeah yeah",​ghostin,2019-02-08
+I'm a girl with a whole lot of baggage, yeah yeah",​ghostin,2/8/2019,25
 Sweetener,https://images.genius.com/4ce400230c1a7c341bd83d8b5c5f8772.1000x1000x1.jpg,"[Chorus]
 You, you love it how I move you
 You love it how I touch you, my one
@@ -7242,7 +7242,7 @@ Oh, yeah
 (God is a woman, yeah)
 (One)
 It lingers when we're done
-You'll believe God is a woman",​God is a woman,2018-07-13
+You'll believe God is a woman",​God is a woman,7/13/2018,8
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Verse]
 Tell me why you gotta look at me that way
 You know what it does to me
@@ -7301,7 +7301,7 @@ Honey, say goodnight and go
 Wanna say goodnight
 Baby, say goodnight and go
 Wanna say goodnight
-Say goodnight and go",​goodnight n go,2018-08-17
+Say goodnight and go",​goodnight n go,8/17/2018,87
 "thank u, next",https://images.genius.com/d21defa1967cb3177818653cb392389c.1000x1000x1.jpg,"[Verse 1]
 Step up, the two of us, nobody knows us
 Get in the car like, ""Skrrt""
@@ -7361,7 +7361,7 @@ Imagine it, imagine it
 Imagine it, imagine it
 Imagine, imagine
 Imagine, imagine
-Imagine, imagine",​imagine,2018-12-14
+Imagine, imagine",​imagine,12/14/2018,21
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Intro: Doug Middlebrook]
 Here's the thing: you’re in love with a version of a person that you've created in your head, that you are trying to but cannot fix. Uh, the only person you can fix is yourself. I love you, this has gone on way too long. Enough is enough. I'm two blocks away, I’m coming over.​
 
@@ -7425,7 +7425,7 @@ Thought you were somebody else, you
 
 [Outro]
 Thought you were somebody else, you (You)
-Thought you were somebody else, you",​in my head,2019-02-08
+Thought you were somebody else, you",​in my head,2/8/2019,38
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Verse 1]
 I like to fuck with you just to make up with you
 'Cause the way you be screamin’ my name
@@ -7484,7 +7484,7 @@ Go 'head, ruin my makeup (Yeah-eh-eh)
 [Outro]
 Yeah-yeah, yeah-yeah, yeah-yeah
 Oh no, yeah-yeah, yeah-yeah
-Mmm, yeah-yeah, yeah-yeah, yeah-yeah, uh-huh",​make up,2019-02-08
+Mmm, yeah-yeah, yeah-yeah, yeah-yeah, uh-huh",​make up,2/8/2019,48
 "thank u, next",https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg,"[Verse 1]
 If you take too long to hit me back
 I can't promise you how I’ll react
@@ -7529,7 +7529,7 @@ How you even think it got this far, this far?
 And I can be needy, way too damn needy
 I can be needy, tell me how good it feels to be needed
 I can be needy, so hard to please me
-I know it feels so good to be needed",​needy,2019-02-08
+I know it feels so good to be needed",​needy,2/8/2019,14
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Intro]
 Mmm, yeah, yuh
 
@@ -7553,7 +7553,7 @@ I'ma be happy, happy
 I'ma be happy, happy, yeah
 Gonna be happy, happy
 I'ma be happy, happy
-I'ma be happy, happy",​pete davidson,2018-08-17
+I'ma be happy, happy",​pete davidson,8/17/2018,99
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Intro: Ariana Grande]
 Last night, boy, I met you, yeah
 When I was asleep (sleep)
@@ -7626,16 +7626,16 @@ Wake up, wake up, wake up, wa-wake up
 (No I don't want, no)
 'Cause you're such a dream (Does this end?)
 If you can believe, you're such a dream to me
-To me, mmm, boy, to me",​R.E.M,2018-08-17
+To me, mmm, boy, to me",​R.E.M,8/17/2018,72
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Verse]
 When raindrops fell down from the sky
 The day you left me, an angel cried
 Oh, she cried, an angel cried
-She cried...",​raindrops (an angel cried),2018-08-17
+She cried...",​raindrops (an angel cried),8/17/2018,
 Unreleased ,https://images.genius.com/275cf721fa35e4cf0c56c55aff7db28b.350x350x1.png,"          
             Lyrics for this song have yet to be released. Please check back once the song has been released.
           
-        ",​remember,
+        ",​remember,,
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Intro]
 Yeah, yeah, mmm, oh, yeah
 Yeah, ooh, ooh, yeah
@@ -7705,7 +7705,7 @@ And have this fun and be successful
 I'm so successful, yeah
 And, girl, you too, you are so young
 And beautiful and so successful, yeah
-I'm so successful, yeah, yeah",​successful,2018-08-17
+I'm so successful, yeah, yeah",​successful,8/17/2018,
 Sweetener,https://images.genius.com/49f67bea2f0a72f8a8448c28b4964667.1000x1000x1.jpg,"[Chorus]
 When life deals us cards
 Make everything taste like it is salt
@@ -7789,7 +7789,7 @@ Twist it, twist it, twist it, twist it
 Mix it and mix it and mix it and mix it
 Kiss it, kiss it, kiss it
 You make me say oh, oh (Sheesh, sheesh)
-You make me say oh, babe",​sweetener,2018-08-17
+You make me say oh, babe",​sweetener,8/17/2018,55
 "thank u, next",https://images.genius.com/f1a498312aa81216bd983a0def533f80.1000x1000x1.jpg,"[Verse 1]
 Thought I'd end up with Sean
 But he wasn't a match
@@ -7896,7 +7896,7 @@ Yeah, yee
 Thank you, next
 Thank you, next
 Thank you, next
-Yeah, yee","​thank u, next",2018-11-03
+Yeah, yee","​thank u, next",11/3/2018,1
 Sweetener,https://images.genius.com/5d779f9c1e3c7c270083808d587125c1.953x953x1.jpg,"[Intro]
 You wouldn't let anybody speak and instead—
 You wouldn't let anybody speak and instead—
@@ -8001,7 +8001,7 @@ You wouldn't let anybody speak and instead—
 The light is coming to give back everything the darkness stole, stole, st-st-stole
 You wouldn't let anybody speak and instead—
 The light is coming to give back everything the darkness stole
-You wouldn't let anybody speak and inst—",​the light is coming,2018-06-20
+You wouldn't let anybody speak and inst—",​the light is coming,6/20/2018,89
 Sweetener,https://images.genius.com/055b181a497eea5f26db5cea5f9b8347.910x910x1.jpg,"[Intro]
 Cigam gnihtemos od ot
 Thgin laiceps ruoy s'thginot tub
@@ -8061,7 +8061,7 @@ And oh, I gotta keep, I keep on breathin', mmm, yeah
 Feel my blood runnin', swear the sky's fallin'
 I keep on breathin', oh yeah
 Time goes by and I can't control my mind
-I keep on breathin', mmm, yeah",​​breathin,2018-08-17
+I keep on breathin', mmm, yeah",​​breathin,8/17/2018,12
 Sweetener,https://images.genius.com/9ea6c6b588afc1035ecb398f4b3291a6.1000x1000x1.jpg,"[Intro]
 Right now, I'm in a state of mind
 I wanna be in like all the time
@@ -8148,4 +8148,4 @@ I'm lovin', I'm livin', I'm pickin' it up
 [Refrain]
 Pickin' it up, pickin' it up
 Lovin', I'm livin', so we turnin' up
-Yeah, we turnin' it up",​​no tears left to cry,2018-04-20
+Yeah, we turnin' it up",​​no tears left to cry,4/20/2018,3
